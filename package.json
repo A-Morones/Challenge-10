@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^10.0.4",
+    "jest": "^29.7.0"
+  },
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "A-Morones"
+  },
+  "author": "Adalberto Morones",
+  "license": "ISC"
+}
